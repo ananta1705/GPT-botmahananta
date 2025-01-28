@@ -1,7 +1,7 @@
 {
   "name": "discord-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "1. Clone the Github repo in your current directory",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
@@ -14,5 +14,13 @@
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3",
     "openai": "^3.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananta1705/GPT-botmahananta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ananta1705/GPT-botmahananta/issues"
+  },
+  "homepage": "https://github.com/ananta1705/GPT-botmahananta#readme"
 }
