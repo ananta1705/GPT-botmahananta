@@ -11,7 +11,7 @@ const client = new Client({
     IntentsBitField.Flags.MessageContent,
   ],
 });
-
+masih dalam uji coba
 const configuration = new Configuration({
   organization: process.env.OPENAI_ORGANIZATION,
   apiKey: process.env.OPENAI_API_KEY,
