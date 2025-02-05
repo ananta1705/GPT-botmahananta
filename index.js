@@ -22,7 +22,7 @@ const openai = new OpenAIApi(configuration);
 client.on('ready', (c) => {
   console.log(`Logged in as ${c.user.tag}!`);
 });
-
+perbiakan js di bagian id 
 const msgLengthLimit = 2000;
 client.on('messageCreate', async (message) => {
   try {
